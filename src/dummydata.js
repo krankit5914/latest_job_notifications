@@ -16,7 +16,40 @@ export const jobsCard = [
   //   Salary: "Salary : Up to 6 LPA (Expected)",
   //   Experience: "Experience : Fresher",
   //   link: "",
+  // },  // {
+  //   Name: "apple",
+  //   Location: "Location : Bengaluru",
+  //   Qualification: " Qualification : Bachelor",
+  //   Batch: "Batch : 2018/ 2019/ 2020/ 2021/ 2022/ 2023/ 2024 ",
+  //   Salary: "Salary : Up to 6 LPA (Expected)",
+  //   Experience: "Experience : Fresher",
+  //   link: "",
   // },
+  {
+    Name: "Accenture Off Campus Drive 2024 | Hiring For Quality Engineer – Tester",
+    Location: "Location : Bengaluru",
+    Qualification: " Qualification : Any Graduate",
+    Batch: "Batch : Recent Batches ",
+    Salary: "Salary : ₹ 4.5 LPA (Expected)",
+    Experience: "Experience : Fresher",
+    link: "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-4366344-S1689605_en&SRC=RECNau",
+  },
+  {
+    Name: "IBM Freshers Recruitment of Java Software Developer",
+    Location: "Location : Multiple Locations",
+    Qualification:
+      " Required Technical and Professional Expertise : Java Dev: Core Java(8/11/17), Servlet, APIs, JavaScript(Dojo)",
+    Batch: "Qualification : Basic Graduation from reputed college ",
+    Experience: "Experience : Fresher",
+    link: "https://careers.ibm.com/job/20620488/java-developer-remote/?codes=WEB_SEARCH_NA",
+  },
+  {
+    Name: "Genpact Hiring Fresher Business Analyst – Software Engineer",
+    Location: "Location : Bengaluru",
+    Qualification: " Qualification : Bachelor’s / Graduation / Equivalent",
+    Experience: "Experience : Fresher",
+    link: "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?job=ANA012784",
+  },
   {
     Name: "Accenture Careers 2024 Hiring For Application Developer",
     Location: "Location : Mumbai",
@@ -60,7 +93,8 @@ export const jobsCard = [
   {
     Name: "Citi Off Campus Drive 2024 | Hiring Business Analytics Analyst",
     Location: "Location : Bengaluru",
-    Qualification: " Qualification : Bachelors/University degree or equivalent experience",
+    Qualification:
+      " Qualification : Bachelors/University degree or equivalent experience",
     Batch: "Batch : 2020/ 2021/ 2022/ 2023",
     Salary: "Salary : ₹ 13 LPA (Via Glassdoor)",
     Experience: "Experience : Freshers (0 to 2 years)",
