@@ -53,8 +53,57 @@ export const jobsCard = [
   //   Experience: "Experience : Fresher",
   //   link: "",
   // },
-
-   {
+  // {
+  //   Name: "apple",
+  //   Location: "Location : Bengaluru",
+  //   Qualification: " Qualification : Bachelor",
+  //   Batch: "Batch : 2018/ 2019/ 2020/ 2021/ 2022/ 2023/ 2024 ",
+  //   Salary: "Salary : Up to 6 LPA (Expected)",
+  //   Experience: "Experience : Fresher",
+  //   link: "",
+  // },
+  {
+    Name: "Harman Careers Hiring for Associate Test Automation",
+    Location: "Location : Bengaluru",
+    Qualification: " Qualification : Bachelor",
+    Batch: "Batch : 2024 ",
+    Experience: "Experience : Freshers & Experience",
+    link: "https://jobs.harman.com/en_US/careers/JobDetail/Associate-Test-Automation/22973",
+  },
+  {
+    Name: "Amazon Off Campus Recruitment Drive 2024",
+    Location: "Location : Chennai",
+    Qualification: " Qualification : Bachelor",
+    Batch: "Batch : 2021/ 2022/ 2023/ 2024 ",
+    Experience: "Experience : Freshers & Experience",
+    link: "https://amazonvirtualhiring.hirepro.in/registration/incta/ju0f4/apply/?j=56434&e=12271",
+  },
+  {
+    Name: "Deloitte Careers Fresher Hiring",
+    Location: "Location : Mumbai",
+    Qualification:
+      " Qualification : B.Com / MBA / equivalent qualification/experience",
+    link: "https://jobsindia.deloitte.com/job/Mumbai-I-Think-Strategy-Risk-&-Transaction-Forensics-&-Disputes-Fresher-Graduates-Contractual-Role%28Mumbai%29/25355344/",
+  },
+  {
+    Name: "Ericsson Careers Hiring for Associate Engineer Trainee",
+    Location: "Location : Bengaluru",
+    Qualification: " Qualification : Bachelor’s/Master’s Degree",
+    Batch: "Batch : Recent Batches",
+    Salary: "Salary : Up to 6.3 LPA (Expected)",
+    Experience: "Experience : Fresher",
+    link: "https://jobs.ericsson.com/careers/job/563121759980810?domain=ericsson.com",
+  },
+  {
+    Name: "IBM is hiring for Technical Support Engineer",
+    Location: "Location : Bengaluru",
+    Qualification: " Qualification : Bachelor’s/Master’s Degree",
+    Batch: "Batch : Recent Batches ",
+    Salary: "Salary : Up to 7.6 LPA (Expected)",
+    Experience: "Experience : Freshers & Experience",
+    link: "https://careers.ibm.com/job/19901166/technical-support-engineer-bangalore-in/?codes=SN_LinkedIn&Codes=SN_LinkedIn",
+  },
+  {
     Name: "Goldman Sachs Recruitment 2024 For Analyst",
     Location: "Location : Bengaluru",
     Qualification: " Qualification : Bachelor’s Degree",
@@ -65,7 +114,8 @@ export const jobsCard = [
   {
     Name: "Catchpoint Recruitment 2024 For Systems Engineer",
     Location: "Location : Bengaluru",
-    Qualification: " Qualification : BE/BTech/MCA Computer Science & Networking,",
+    Qualification:
+      " Qualification : BE/BTech/MCA Computer Science & Networking,",
     Batch: "Batch : 2022/ 2023",
     Salary: "Salary : Not Disclosed",
     Experience: "Experience : 0 - 1 years",
@@ -84,7 +134,7 @@ export const jobsCard = [
     Qualification: " Qualification : Any Graduate",
     Experience: "Experience : 0 – 5 years",
     link: "https://www.naukri.com/job-listings-transportation-specialist-amazon-hyderabad-0-to-5-years-100624002140?source=jobscoupe.com",
-  },  
+  },
   {
     Name: "Wipro Recruitment 2024 For Data Analyst",
     Location: "Location : Hyderabad",
@@ -102,7 +152,7 @@ export const jobsCard = [
     Salary: "Salary : Not Disclosed",
     Experience: "Experience : Freshers",
     link: "https://www.naukri.com/job-listings-tech-mahindra-hiring-for-work-from-home-customer-support-tech-mahindra-hyderabad-0-to-5-years-250624006769?source=jobscoupe.com",
-  },  
+  },
   {
     Name: "Qualcomm Recruitment 2024 For Associate Engineer",
     Location: "Location : Hyderabad",
@@ -110,7 +160,7 @@ export const jobsCard = [
     Batch: "Batch : 2024 ",
     Experience: "Experience : 0 – 1 Year",
     link: "https://unstop.com/jobs/associate-engineer-mst-qualcomm-1054207?utm_source=JobScoupe&utm_medium=Affiliates&utm_campaign=qualcomm23062024&ref=JobScoupe",
-  },  
+  },
   {
     Name: "Qualcomm Off Campus Drive 2024 For Engineering – Internship",
     Location: "Location : Bangalore , Chennai , Noida",
