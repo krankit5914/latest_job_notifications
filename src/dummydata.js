@@ -63,6 +63,14 @@ export const jobsCard = [
   //   link: "",
   // },
   {
+    Name: "Goldman Sachs Recruitment 2024 For Analyst",
+    Location: "Location : Bengaluru",
+    Qualification: " Qualification : Bachelor’s Degree",
+    Batch: "Batch : 2024 ",
+    Experience: "Experience : 0 – 2 Years",
+    link: "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/131014?source=jobscoupe.com",
+  },
+  {
     Name: "Harman Careers Hiring for Associate Test Automation",
     Location: "Location : Bengaluru",
     Qualification: " Qualification : Bachelor",
@@ -77,13 +85,6 @@ export const jobsCard = [
     Batch: "Batch : 2021/ 2022/ 2023/ 2024 ",
     Experience: "Experience : Freshers & Experience",
     link: "https://amazonvirtualhiring.hirepro.in/registration/incta/ju0f4/apply/?j=56434&e=12271",
-  },
-  {
-    Name: "Deloitte Careers Fresher Hiring",
-    Location: "Location : Mumbai",
-    Qualification:
-      " Qualification : B.Com / MBA / equivalent qualification/experience",
-    link: "https://jobsindia.deloitte.com/job/Mumbai-I-Think-Strategy-Risk-&-Transaction-Forensics-&-Disputes-Fresher-Graduates-Contractual-Role%28Mumbai%29/25355344/",
   },
   {
     Name: "Ericsson Careers Hiring for Associate Engineer Trainee",
@@ -104,12 +105,11 @@ export const jobsCard = [
     link: "https://careers.ibm.com/job/19901166/technical-support-engineer-bangalore-in/?codes=SN_LinkedIn&Codes=SN_LinkedIn",
   },
   {
-    Name: "Goldman Sachs Recruitment 2024 For Analyst",
-    Location: "Location : Bengaluru",
-    Qualification: " Qualification : Bachelor’s Degree",
-    Batch: "Batch : 2024 ",
-    Experience: "Experience : 0 – 2 Years",
-    link: "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/131014?source=jobscoupe.com",
+    Name: "Deloitte Careers Fresher Hiring",
+    Location: "Location : Mumbai",
+    Qualification:
+      " Qualification : B.Com / MBA / equivalent qualification/experience",
+    link: "https://jobsindia.deloitte.com/job/Mumbai-I-Think-Strategy-Risk-&-Transaction-Forensics-&-Disputes-Fresher-Graduates-Contractual-Role%28Mumbai%29/25355344/",
   },
   {
     Name: "Catchpoint Recruitment 2024 For Systems Engineer",
