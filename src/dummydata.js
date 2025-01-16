@@ -36,7 +36,7 @@ export const jobsCard = [
   //   link: "",
   // },
   {
-    Name: "KPMG Recruitment 2025 For Data Management – Analyst",
+    Name: "KPMG Recruitment For Data Management – Analyst",
     Location: "Location : Across India",
     Qualification: " Qualification : B.E / B.Tech / M.E / M.Tech / MBA / MCA",
     Batch: "Batch : 2025 ",
@@ -52,7 +52,7 @@ export const jobsCard = [
     link: "https://www.naukri.com/job-listings-data-analyst-english-required-peroptyx-delhi-ncr-0-to-5-years-200524003834?utm_source=jobscoupe.com",
   },
   {
-    Name: "Zeotap Recruitment 2025 For Data Science – Intern",
+    Name: "Zeotap Recruitment For Data Science – Intern",
     Location: "Location : Bengaluru",
     Qualification: " Qualification : B.E / B.Tech / M.E / M.Tech",
     Batch: "Batch : 2025 ",
