@@ -45,6 +45,31 @@ export const jobsCard = [
   //   link: "",
   // },
   {
+    Name: "Amazon Careers Job Opening for Full-Lifecycle recruiter-I",
+    Location: "Location : Bangalore, Hyderabad",
+    Qualification: " Qualification : Bachelor",
+    Batch: "Batch : 2025",
+    Experience: "Experience : Freshers & Experience",
+    link: "https://www.amazon.jobs/en-gb/jobs/2882558/full-lifecycle-recruiter-i",
+  },
+  {
+    Name: "Accenture New Job Opening for New Associate",
+    Location: "Location : Hyderabad",
+    Qualification: " Qualification : Any Graduation",
+    Batch: "Batch : 2025 ",
+    Experience: "Experience : Freshers & Experience",
+    link: "https://www.accenture.com/in-en/careers/jobdetails?src=LINKEDINJP&id=AIOC-S01564184_en",
+  },
+  {
+    Name: "Zensar ~ Fresher’s Opportunity – PROMPT ENGINEER (PCM)",
+    Location: "Location : Pan India",
+    Qualification:
+      " Qualification : Graduates or master’s from Physics, Chemistry, Mathematics",
+    Batch: "Batch : 2025 ",
+    Experience: "Experience : Freshers & Experience",
+    link: "https://forms.office.com/pages/responsepage.aspx?id=Mj58IBVx006KVSL37bd9yQr7jOogbSVCudcQV9jWY7hUOFRBVjc1SzVZWEJKTDAzMUtPQkRPQURVMi4u&route=shorturl",
+  },
+  {
     Name: "Unnanu Recruitment For Research Analyst",
     Location: "Location : Hyderabad",
     Qualification: " Qualification : B.E / B.Tech / M.E / M.Tech",
