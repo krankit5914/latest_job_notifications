@@ -76,7 +76,7 @@ export const jobsCard = [
     Location: "Location : Bengaluru",
     Qualification: " Qualification : Bachelor’s Degree",
     Batch: "Batch : Any Batches ",
-    Salary: "₹ 9.5 to 13 LPA",
+    Salary: "Salary : ₹ 9.5 to 13 LPA",
     Experience: "Experience : Fresher",
     link: "https://unstop.com/jobs/software-engineer-storage-microsoft-1364132?utm_source=Prepflix&utm_medium=Affiliates&utm_campaign=MICROSOFT20022025&ref=AffPrepflix",
   },
