@@ -54,6 +54,37 @@ export const jobsCard = [
   //   link: "",
   // },
   {
+    Name: "Google",
+    Location: "Location : Bengaluru, Karnataka, India",
+    Qualification: " Role: Associate Product Manager",
+    Batch: "Batch : 2025-26 ",
+    Experience: "Experience : Fresher",
+    link: "https://www.google.com/about/careers/applications/jobs/results/75038123993506502-associate-product-manager/",
+  },
+  {
+    Name: "Virtusa Hiring for Software Engineer",
+    Location: "Location : Chennai ",
+    Qualification: "Job Type:	Full-Time",
+    Experience: "Experience : Experience",
+    link: "https://www.virtusa.com/careers/in/chennai/application-maintenance-and-support/software-engineer/creq231411",
+  },
+  {
+    Name: "Baker Hughes Fresher Hiring 2026 – ASPIRE Digital Technology",
+    Location: "Location : Mumbai, Maharashtra, Bangalore, Karnataka, India",
+    Qualification: " Qualification : recent graduate",
+    Experience: "Experience : Fresher & Experience",
+    link: "https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR156172/Early-Career-ASPIRE-Digital-Technology-India-2026-Opportunities?utm_source=linkedin&utm_medium=phenom-feeds",
+  },
+  {
+    Name: "Microsoft Off Campus Hiring Fresher For Security Operations Engineering Intern",
+    Location: "Location : Multiple Locations, India",
+    Qualification:
+      " Qualification : Currently pursuing a Bachelor's Degree in Statistics, Mathematics, Computer Science or related field",
+    Batch: "Job Type : Full Time",
+    Experience: "Experience : Fresher",
+    link: "https://jobs.careers.microsoft.com/global/en/job/1884502/Security-Operations-Engineering-Intern?amp;utm_campaign=Copy-job-share",
+  },
+  {
     Name: "Accenture – Customer Service Associate",
     Location: "Location : Bangalore / Mumbai (WFH available)",
     Qualification: " Qualification : Any Graduation/Undergraduate",
